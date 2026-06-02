@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║     ████████╗██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ███████╗  ║
@@ -11,7 +11,7 @@
 ║        ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 ### `> Thomas Cordé` · Étudiant en informatique @ ETNA · Paris 🇫🇷
 
@@ -20,8 +20,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=ThomasC-Banks&style=flat-square&color=6366f1&label=profile+views)](https://github.com/ThomasC-Banks)
 
 </div>
-
----
 
 ## `> whoami`
 
@@ -38,8 +36,6 @@ currently:  "Coder des interfaces le jour, programmer des robots la nuit"
 
 D'un côté un terminal TypeScript, de l'autre une breadboard et un Arduino. Les deux me semblent complémentaires : la rigueur du code embarqué renforce mon approche du web, et la créativité du dev nourrit mes projets robotiques.
 
----
-
 ## `> skills --list`
 
 <div align="center">
@@ -51,8 +47,6 @@ D'un côté un terminal TypeScript, de l'autre une breadboard et un Arduino. Les
 | ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) | | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 </div>
-
----
 
 ## `> ls ./projects`
 
@@ -67,16 +61,12 @@ Percevoir → Décider → Agir → Marcher (et parfois danser)
 
 [![SpiderBot](https://img.shields.io/badge/→_Voir_le_repo-SpiderBot-E7352C?style=flat-square)](https://github.com/ThomasC-Banks/SpiderBot)
 
----
-
 ### 🚗 Wall-E — Voiture autonome à évitement d'obstacles
 > `C++` · `Arduino Uno` · `HC-SR04` · `L298N` · `PWM`
 
 Véhicule autonome sur châssis SunFounder programmé en C++ sous **Arduino IDE**. Détection d'obstacles ultrasonique (HC-SR04), pilotage moteurs en PWM via L298N, logique Percevoir → Décider → Agir. Bonus : servo panoramique et ralenti progressif.
 
 [![RobotCar](https://img.shields.io/badge/→_Voir_le_repo-RobotCar-00979D?style=flat-square)](https://github.com/ThomasC-Banks/RobotCar)
-
----
 
 ### 🛡️ The Tank
 > `C++` · `Systèmes embarqués`
@@ -85,16 +75,12 @@ Projet robotique embarqué — un tank contrôlable, conçu et programmé en C++
 
 [![The_Tank](https://img.shields.io/badge/→_Voir_le_repo-The_Tank-555?style=flat-square)](https://github.com/ThomasC-Banks/The_Tank)
 
----
-
 ### 🔩 Projet Robotique Arduino
 > `C++` · `Arduino`
 
 Exploration de la robotique Arduino, base de mes apprentissages en systèmes embarqués.
 
 [![Arduino](https://img.shields.io/badge/→_Voir_le_repo-Projet--robotique--Arduino-00979D?style=flat-square)](https://github.com/ThomasC-Banks/Projet-robotique-Arduino)
-
----
 
 ### 🗂️ Projet Full-Stack Trello
 > `TypeScript` · `Full-Stack`
@@ -103,16 +89,12 @@ Application web full-stack inspirée de Trello. Gestion de tâches et de projets
 
 [![Trello](https://img.shields.io/badge/→_Voir_le_repo-Projet--full--stack--Trello-3178C6?style=flat-square)](https://github.com/ThomasC-Banks/Projet-full-stack-Trello)
 
----
-
 ### 🎬 Application Mobile — Catalogue de Films
 > `JavaScript` · `React Native`
 
 Application mobile de catalogue de films développée en JavaScript/React Native.
 
 [![Mobile](https://img.shields.io/badge/→_Voir_le_repo-Catalogue--de--film-F7DF1E?style=flat-square&logoColor=black)](https://github.com/ThomasC-Banks/Projet-application-mobile-catalogue-de-film-)
-
----
 
 ## `> cat todo.md`
 
@@ -130,8 +112,6 @@ Un ordinateur portable entièrement fait main dans un boîtier custom — clavie
 [ ] OS et config custom
 ```
 
----
-
 ### 🎮 Mini console portable — GameBoy qui tourne Doom
 > `RP2040 / ESP32` · `Écran TFT` · `C/C++` · `Rétrogaming`
 
@@ -145,8 +125,6 @@ Une console de jeu portable maison, format GameBoy, capable de faire tourner Doo
 [ ] Batterie + gestion d'alimentation
 ```
 
----
-
 ### `// ...et d'autres idées en gestation`
 
 ```
@@ -154,8 +132,6 @@ Une console de jeu portable maison, format GameBoy, capable de faire tourner Doo
 - Un système domotique maison à base de ESP32 + MQTT
 - Des projets web plus ambitieux côté full-stack
 ```
-
----
 
 <div align="center">
 
