@@ -13,7 +13,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> Thomas Cordé` · Étudiant ingénieur @ ETNA · Paris 🇫🇷
+### `> Thomas Cordé` · Étudiant en informatique @ ETNA · Paris 🇫🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thomas--cordé-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-cord%C3%A9-08692a278/)
 [![GitHub followers](https://img.shields.io/github/followers/ThomasC-Banks?style=flat-square&color=333&label=followers)](https://github.com/ThomasC-Banks)
@@ -29,13 +29,14 @@
 name:       "Thomas Cordé"
 location:   "Paris, France"
 school:     "ETNA — École des Technologies Numériques Appliquées"
-passion:    ["Robotique", "Systèmes embarqués", "Full-stack", "Mobile"]
-currently:  "Construire des robots qui évitent les murs (et parfois y arrivent)"
+formation:  "Informatique"
+passion:    ["Développement web", "Robotique", "Systèmes embarqués", "Mobile"]
+currently:  "Coder des interfaces le jour, programmer des robots la nuit"
 ```
 
-Passionné avant tout par la **robotique** et les **systèmes embarqués**, j'aime concevoir des machines qui perçoivent leur environnement et interagissent avec le monde réel — du microcontrôleur jusqu'au firmware. Mon terrain de jeu favori : un Arduino ou un ESP32, une breadboard, et beaucoup de câbles Dupont.
+Étudiant en **informatique** à l'ETNA, je navigue entre deux univers qui me passionnent également : le **développement web** — concevoir des interfaces et des APIs propres, bien architecturées — et la **robotique embarquée** — programmer des microcontrôleurs, piloter des servos, faire bouger des choses dans le monde réel.
 
-Je développe aussi des applications **full-stack** et **mobiles** pour compléter ma polyvalence, mais c'est quand le code fait bouger quelque chose de physique que je suis vraiment dans mon élément.
+D'un côté un terminal TypeScript, de l'autre une breadboard et un Arduino. Les deux me semblent complémentaires : la rigueur du code embarqué renforce mon approche du web, et la créativité du dev nourrit mes projets robotiques.
 
 ---
 
@@ -128,12 +129,12 @@ Application mobile de catalogue de films développée en JavaScript/React Native
 ## `> philosophy.txt`
 
 ```
-Un bon robot, c'est comme un bon code :
-  → il comprend son environnement
-  → il prend des décisions intelligentes
-  → il agit de façon fiable
+Que ce soit une interface ou un robot :
+  → ça doit être bien conçu
+  → ça doit être fiable
+  → ça doit faire ce qu'on attend de lui
 
-Et parfois, il fonce dans un mur.
+Et parfois, ça fonce dans un mur.
 C'est ça aussi, apprendre.
 ```
 
@@ -141,7 +142,7 @@ C'est ça aussi, apprendre.
 
 <div align="center">
 
-*Construit avec du C, du C++, de la soudure et beaucoup de débogage série.*
+*Construit avec du TypeScript, du C++, de la soudure et beaucoup de café.*
 
 [![ETNA](https://img.shields.io/badge/ETNA-École_des_Technologies_Numériques-6366f1?style=flat-square)](https://www.etna.io/)
 
