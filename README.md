@@ -114,28 +114,45 @@ Application mobile de catalogue de films développée en JavaScript/React Native
 
 ---
 
-## `> git log --oneline`
+## `> cat todo.md`
 
-<div align="center">
+Ce qui est en cours de réflexion, de conception, ou simplement qui me démange de construire.
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasC-Banks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=00979D&text_color=c9d1d9)
+### 🖥️ Cyberdeck
+> `Raspberry Pi` · `Embarqué` · `DIY Hardware`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasC-Banks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
+Un ordinateur portable entièrement fait main dans un boîtier custom — clavier mécanique, écran, batterie intégrée. L'idée : un outil personnel et unique, à l'esthétique rétro-futuriste, que j'aurais construit de A à Z. Quelque chose entre le terminal cyberpunk et l'objet artisanal.
 
-</div>
+```
+[ ] Choix du SBC (Raspberry Pi / CM4)
+[ ] Conception du boîtier (impression 3D / usinage)
+[ ] Intégration clavier + écran
+[ ] OS et config custom
+```
 
 ---
 
-## `> philosophy.txt`
+### 🎮 Mini console portable — GameBoy qui tourne Doom
+> `RP2040 / ESP32` · `Écran TFT` · `C/C++` · `Rétrogaming`
+
+Une console de jeu portable maison, format GameBoy, capable de faire tourner Doom. Parce que faire tourner Doom sur un microcontrôleur, c'est un peu le rite de passage ultime de l'embarqué.
 
 ```
-Que ce soit une interface ou un robot :
-  → ça doit être bien conçu
-  → ça doit être fiable
-  → ça doit faire ce qu'on attend de lui
+[ ] Sélection du microcontrôleur (RP2040 ou ESP32)
+[ ] Intégration écran TFT + boutons
+[ ] Port de Doom (doom-generic / PicoDoom)
+[ ] Boîtier imprimé 3D
+[ ] Batterie + gestion d'alimentation
+```
 
-Et parfois, ça fonce dans un mur.
-C'est ça aussi, apprendre.
+---
+
+### `// ...et d'autres idées en gestation`
+
+```
+- Un bras robotique articulé contrôlable via une interface web
+- Un système domotique maison à base de ESP32 + MQTT
+- Des projets web plus ambitieux côté full-stack
 ```
 
 ---
