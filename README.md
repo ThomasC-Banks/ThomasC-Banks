@@ -108,7 +108,7 @@ Un ordinateur portable entièrement fait main dans un boîtier custom avec un cl
 [ ] OS et config custom
 ```
 
-### 🎮 Mini console portable — GameBoy qui tourne Doom
+### 🎮 Mini console portable, GameBoy qui tourne Doom
 > `RP2040 / ESP32` · `Écran TFT` · `C/C++` · `Rétrogaming`
 
 Une console de jeu portable maison, format GameBoy, capable de faire tourner Doom. Parce que faire tourner Doom sur un microcontrôleur, c'est un peu le rite de passage ultime de l'embarqué.
