@@ -4,9 +4,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=ThomasC-Banks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=800&color=00979D&center=true&vCenter=true&width=650&lines=ThomasC-Banks)](https://git.io/typing-svg)
 
-### Étudiant en informatique @ ETNA · Paris 🇫🇷
+[![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Dev+Web+%26+Robotique+%7C+%C3%89tudiant+%40+ETNA+%7C+Paris)](https://git.io/typing-svg)
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thomas--cordé-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-cord%C3%A9-08692a278/)
 [![GitHub followers](https://img.shields.io/github/followers/ThomasC-Banks?style=flat-square&color=333&label=followers)](https://github.com/ThomasC-Banks)
@@ -22,7 +24,7 @@ location:   "Paris, France"
 school:     "ETNA — École des Technologies Numériques Appliquées"
 formation:  "Informatique"
 passion:    ["Développement web", "Robotique", "Systèmes embarqués", "Mobile"]
-currently:  "Working on many cool things !"
+currently:  "Coder des interfaces le jour, programmer des robots la nuit"
 ```
 
 Étudiant en **informatique** à l'ETNA, je navigue entre deux univers qui me passionnent également : le **développement web** — concevoir des interfaces et des APIs propres, bien architecturées — et la **robotique embarquée** — programmer des microcontrôleurs, piloter des servos, faire bouger des choses dans le monde réel.
