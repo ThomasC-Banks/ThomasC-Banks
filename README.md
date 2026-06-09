@@ -24,11 +24,10 @@ location:   "Paris, France"
 school:     "ETNA — École des Technologies Numériques Appliquées"
 formation:  "Informatique"
 passion:    ["Développement web", "Robotique", "Systèmes embarqués", "Mobile"]
-currently:  "Coder des interfaces le jour, programmer des robots la nuit"
+currently:  "Working on many cool things !"
 ```
 
-Étudiant en **informatique** à l'ETNA, je navigue entre deux univers qui me passionnent également : le **développement web** — concevoir des interfaces et des APIs propres, bien architecturées — et la **robotique embarquée** — programmer des microcontrôleurs, piloter des servos, faire bouger des choses dans le monde réel.
-
+Étudiant en **informatique** à l'ETNA, je navigue entre deux univers qui me passionnent également : le **développement web** concevoir des interfaces et des APIs propres, bien architecturées et la **robotique embarquée**  programmer des microcontrôleurs, piloter des servos.
 D'un côté un terminal TypeScript, de l'autre une breadboard et un Arduino. Les deux me semblent complémentaires : la rigueur du code embarqué renforce mon approche du web, et la créativité du dev nourrit mes projets robotiques.
 
 ## `> skills --list`
@@ -45,7 +44,7 @@ D'un côté un terminal TypeScript, de l'autre une breadboard et un Arduino. Les
 
 ## `> ls ./projects`
 
-### 🕷️ SpiderBot — Robot araignée 8 pattes
+### 🕷️ SpiderBot: Robot araignée 8 pattes
 > `C` · `ESP32-S2` · `ESP-IDF` · `PWM` · `I2C`
 
 Robot araignée à **8 pattes** (4 paires, 2 servos par patte) construit et programmé from scratch sur **ESP32-S2 Mini**. Firmware en C avec la toolchain ESP-IDF, afficheur OLED SSD1306, châssis imprimé en 3D et séquences de marche coordonnées.
@@ -56,7 +55,7 @@ Percevoir → Décider → Agir → Marcher (et parfois danser)
 
 [![SpiderBot](https://img.shields.io/badge/→_Voir_le_repo-SpiderBot-E7352C?style=flat-square)](https://github.com/ThomasC-Banks/SpiderBot)
 
-### 🚗 Wall-E — Voiture autonome à évitement d'obstacles
+### 🚗 Wall-E: Voiture autonome à évitement d'obstacles
 > `C++` · `Arduino Uno` · `HC-SR04` · `L298N` · `PWM`
 
 Véhicule autonome sur châssis SunFounder programmé en C++ sous **Arduino IDE**. Détection d'obstacles ultrasonique (HC-SR04), pilotage moteurs en PWM via L298N, logique Percevoir → Décider → Agir. Bonus : servo panoramique et ralenti progressif.
@@ -66,7 +65,7 @@ Véhicule autonome sur châssis SunFounder programmé en C++ sous **Arduino IDE*
 ### 🛡️ The Tank
 > `C++` · `Systèmes embarqués`
 
-Projet robotique embarqué — un tank contrôlable, conçu et programmé en C++.
+Projet robotique embarqué  avec un tank contrôlable via votre smartphone, conçu et programmé en C++.
 
 [![The_Tank](https://img.shields.io/badge/→_Voir_le_repo-The_Tank-555?style=flat-square)](https://github.com/ThomasC-Banks/The_Tank)
 
@@ -84,7 +83,7 @@ Application web full-stack inspirée de Trello. Gestion de tâches et de projets
 
 [![Trello](https://img.shields.io/badge/→_Voir_le_repo-Projet--full--stack--Trello-3178C6?style=flat-square)](https://github.com/ThomasC-Banks/Projet-full-stack-Trello)
 
-### 🎬 Application Mobile — Catalogue de Films
+### 🎬 Application Mobile: Catalogue de Films
 > `JavaScript` · `React Native`
 
 Application mobile de catalogue de films développée en JavaScript/React Native.
@@ -98,7 +97,7 @@ Ce qui est en cours de réflexion, de conception, ou simplement qui me démange 
 ### 🖥️ Cyberdeck
 > `Raspberry Pi` · `Embarqué` · `DIY Hardware`
 
-Un ordinateur portable entièrement fait main dans un boîtier custom — clavier mécanique, écran, batterie intégrée. L'idée : un outil personnel et unique, à l'esthétique rétro-futuriste, que j'aurais construit de A à Z. Quelque chose entre le terminal cyberpunk et l'objet artisanal.
+Un ordinateur portable entièrement fait main dans un boîtier custom avec un clavier mécanique, un écran, une batterie intégrée. L'idée : un outil personnel et unique, à l'esthétique rétro-futuriste, que j'aurais construit de A à Z. Quelque chose entre le terminal cyberpunk et l'objet artisanal.
 
 ```
 [ ] Choix du SBC (Raspberry Pi / CM4)
@@ -107,7 +106,7 @@ Un ordinateur portable entièrement fait main dans un boîtier custom — clavie
 [ ] OS et config custom
 ```
 
-### 🎮 Mini console portable — GameBoy qui tourne Doom
+### 🎮 Mini console portable: GameBoy qui tourne Doom
 > `RP2040 / ESP32` · `Écran TFT` · `C/C++` · `Rétrogaming`
 
 Une console de jeu portable maison, format GameBoy, capable de faire tourner Doom. Parce que faire tourner Doom sur un microcontrôleur, c'est un peu le rite de passage ultime de l'embarqué.
